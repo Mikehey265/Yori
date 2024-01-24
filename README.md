@@ -1,6 +1,6 @@
 # Yori
 
-The result of three weeks work of twelve very talented people on one project. Meet Yori - the student who overslept and is trying to make it on time for class.
+The culmination of a three-week collaborative effort involving a team of twelve exceptionally skilled individuals working on the same project. Meet Yori - the student who overslept and is trying to make it on time for class.
 
 ## Table of contents
 * [General info](#general-info)
