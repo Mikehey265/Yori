@@ -29,6 +29,6 @@ One of the most difficult aspects of my leadership role was dealing with interna
 This experience highlighted the importance of soft skills combined with technical proficiency when working together. This reinforced the idea that effective communication, conflict resolution, and leadership skills are essential elements for achieving success in team projects.
 
 ## Links
-https://futuregames.itch.io/yori
-https://www.linkedin.com/posts/kateryna-kryshchenko-183b23219_what-a-magnificent-project-weve-managed-ugcPost-7134598559961620480-1ym6?utm_source=share&utm_medium=member_desktop
-https://www.linkedin.com/posts/khrystyna-matvisiv-16a116291_here-is-some-screenshots-from-a-game-project-ugcPost-7126921539697934336-9lDf?utm_source=share&utm_medium=member_desktop
+* https://futuregames.itch.io/yori <br>
+* https://www.linkedin.com/posts/kateryna-kryshchenko-183b23219_what-a-magnificent-project-weve-managed-ugcPost-7134598559961620480-1ym6?utm_source=share&utm_medium=member_desktop <br>
+* https://www.linkedin.com/posts/khrystyna-matvisiv-16a116291_here-is-some-screenshots-from-a-game-project-ugcPost-7126921539697934336-9lDf?utm_source=share&utm_medium=member_desktop
