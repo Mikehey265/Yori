@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fbfcfaafecc25d840bdf896f54fa7001
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - item: {instanceID: 0}
+  - addPlayerMovedScriptableObject: {instanceID: 0}
+  - pickupSound: {instanceID: 0}
+  - uiText: {fileID: 7974789814779985469, guid: 4f57fa6397ea3fc45a6fd2a0570bc7b5, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
