@@ -10,7 +10,7 @@ The culmination of a three-week collaborative effort involving a team of twelve 
 
 ## General info
 
-Our project unfolds within an enchanting realm inhabited by wizards and witches. The primary objective of this game is for players to navigate through a magical academy without being cought by vigilant spidery librarians. To succeed, players must employ strategic thinking, balancing the character's stress level and acquiring essential books for their classes. This captivating project was brought to life by very talented people at Futuregames Warsaw and Malmö. <br>
+Our project takes place in an enchanting realm inhabited by wizards and witches. The primary objective of this game is for players to navigate through a magical academy without being cought by vigilant spidery librarians. To succeed, players must employ strategic thinking, balancing the character's stress level and acquiring essential books for their classes. This captivating project was brought to life by very talented people at Futuregames Warsaw and Malmö. <br>
 As this was our first large-scale venture, we encountered many challenges along the way. The development process required seamless collaboration between teams of programmers, artists and designers, all while working under tight deadline. Thanks to the exceptional work within our team, we succeeded and crafted a gaming experience that we are proud of. 
 
 ## Key bindings
@@ -22,10 +22,10 @@ As this was our first large-scale venture, we encountered many challenges along 
 ## My contribution
 
 Starting on my first substantial and collaborative project, I assumed the role of lead programmer, a position that proved to be both challenging and rewarding. This project marked a significant milestone for me, involving coordination of technical aspects, collaborative efforts, and leadership responsibilities.<br><br>
-In terms of technical contributions, I played a pivotal role in the project by creating a grid with coordinates and implementing the movement system. Additionally, I partially contributed to the development of the user interface from a programming perspective and created a saving system, although the latter had to be discarded due to time constraints.<br><br>
-Beyond my programming duties, my role as a leader included various responsibilities. Providing regular updates on the progress of the programming team to our Project Manager and mentors or reasonable tasks assignment to the most suitable team members. I also extended tried my best to provide support to team members facing challenges, ensuring a smooth workflow.
+In terms of technical contributions, I played a pivotal role in the project by creating a grid with coordinates and implementing the movement system. Additionally, I partially contributed to the development of the user interface from a programming perspective and created a saving system, although the latter had to be scrapped due to time constraints.<br><br>
+Beyond my programming duties, my role as a leader included various responsibilities. Providing regular updates on the progress of the programming team to our Product Owner and mentors or reasonable tasks assignment to the most suitable team members. I also tried my best to provide support to team members facing challenges, ensuring a smooth workflow.
 <br><br>
-One of the most difficult aspects of my leadership role was dealing with internal conflicts. As humans we tend to disagree with others opinions on certain topics. Knowing that, I assumed the role of a mediator. Collaborating with our project owner, we successfully resolved a conflict that had unfortunately caused a delay in our work.<br><br>
+One of the most difficult aspects of my leadership role was dealing with internal conflicts. As humans we tend to disagree with others opinions on certain topics. Knowing that, I assumed the role of a mediator. Collaborating with our product owner, we successfully resolved a conflict that had unfortunately caused a delay in our work.<br><br>
 This experience highlighted the importance of soft skills combined with technical proficiency when working together. This reinforced the idea that effective communication, conflict resolution, and leadership skills are essential elements for achieving success in team projects.
 
 ## Links
