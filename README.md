@@ -7,6 +7,7 @@ The culmination of a three-week collaborative effort involving a team of twelve 
 * [Key bindings](#key-bindings)
 * [My contribution](#my-contribution)
 * [Links](#links)
+* [Screenshots](#screenshots)
 
 ## General info
 
@@ -32,3 +33,8 @@ This experience highlighted the importance of soft skills combined with technica
 * https://futuregames.itch.io/yori <br>
 * https://www.linkedin.com/posts/kateryna-kryshchenko-183b23219_what-a-magnificent-project-weve-managed-ugcPost-7134598559961620480-1ym6?utm_source=share&utm_medium=member_desktop <br>
 * https://www.linkedin.com/posts/khrystyna-matvisiv-16a116291_here-is-some-screenshots-from-a-game-project-ugcPost-7126921539697934336-9lDf?utm_source=share&utm_medium=member_desktop
+
+## Screenshots
+![obraz_2024-03-18_094210024](https://github.com/Mikehey265/Yori/assets/101410858/af62941f-7db6-4716-8b64-1774ccd3dbd7)
+![scrr](https://github.com/Mikehey265/Yori/assets/101410858/8765f6ec-ffd6-4ab2-b9fd-e9ff4e19724f)
+![obraz_2024-03-18_093914445](https://github.com/Mikehey265/Yori/assets/101410858/77f6ae09-edcc-45ae-b2e3-278476a50e3e)
