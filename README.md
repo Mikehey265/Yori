@@ -6,6 +6,7 @@ The culmination of a three-week collaborative effort involving a team of twelve 
 * [General info](#general-info)
 * [Key bindings](#key-bindings)
 * [My contribution](#my-contribution)
+* [Development cycle](#development-cycle)
 * [Links](#links)
 * [Screenshots](#screenshots)
 
@@ -28,6 +29,24 @@ Beyond my programming duties, my role as a leader included various responsibilit
 <br><br>
 One of the most difficult aspects of my leadership role was dealing with internal conflicts. As humans we tend to disagree with others opinions on certain topics. Knowing that, I assumed the role of a mediator. Collaborating with our product owner, we successfully resolved a conflict that had unfortunately caused a delay in our work.<br><br>
 This experience highlighted the importance of soft skills combined with technical proficiency when working together. This reinforced the idea that effective communication, conflict resolution, and leadership skills are essential elements for achieving success in team projects.
+
+## Development cycle
+
+We started our project by creating a grid system with coordinates to showcase our approach during the greenlight session.
+
+![grid](https://github.com/Mikehey265/Yori/assets/101410858/fa24652f-79e3-41eb-a3b1-68014c38d1c6)
+
+After receiving the yellow light, we were asked to present our gameplay on paper. We had one day to accomplish this, and we did a great job showcasing player and enemy movement as well as the stress meter.
+
+![paper](https://github.com/Mikehey265/Yori/assets/101410858/9945b486-3cf9-42d2-a451-af117c2bfb10)
+
+Once our project was greenlit, we began implementing player and enemy movement, enemy sight, animations, and the basic UI.
+
+![test](https://github.com/Mikehey265/Yori/assets/101410858/70ca1e0e-d7ea-472e-85d8-a943df7bb8b1)
+
+As the deadline approached, we managed to create three levels using amazing assets from our artists, thereby completing the development of our project.
+
+![aSSETS](https://github.com/Mikehey265/Yori/assets/101410858/b3627ece-edf7-43e6-85d8-67b21a08a058)
 
 ## Links
 * https://futuregames.itch.io/yori <br>
